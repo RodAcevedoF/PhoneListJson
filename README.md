@@ -69,5 +69,5 @@ The project includes unit tests to ensure the system works correctly. They are b
 ## ✍️ Author
 
 **Rodrigo A.**  
-📍 Toronto / Spain  
-💻 [LinkedIn, GitHub, or other links if you'd like to add them]
+📍 Spain / Germany  
+💻 www.linkedin.com/in/rodrigoacevedodev
